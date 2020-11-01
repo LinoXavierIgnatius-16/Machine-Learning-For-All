@@ -1,0 +1,58 @@
+Part - I Questions
+
+Describe your machine learning project, in terms of the following:
+
+What problem were you trying to solve?
+What data did you collect?
+What classes did you use to classify your data, and why they were chosen?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My_Answers:
+
+PROBLEM:
+
+Some Garbage Collector Are Old And They Could Not Able To Find And Separate The Biodegradable And Non-biodegradable Waste. 
+For This Purpose I Want To Design A Machine To Find And Separate Bio-Degradable And Non-biodegradable Waste.
+
+DATA COLLECTED:
+
+Different Types Of Biodegradable And Non-biodegradable Waste. And The Pictures Of Old Men And Women Who Find Difficult To 
+Find And Separate Biodegradable And Non-biodegradable Waste.
+
+CLASSES OF DATA:
+
+Images Of Biodegradable And Non-biodegradable Waste Are My Primary Data And The Images Of Old Men And Women Garbage Collector 
+Are My Secondary Data. The Reason I Choose These Two Data Is To Make A Machine that Should Help the Garbage Collector To Find And Separate 
+The Biodegradable And Non-biodegradable Waste.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part - II Questions
+
+T​his part of the question is about evaluating your project, in terms of the following:
+
+1.How well did your classifier work? Were you happy with the results? What was the overall percentage accuracy on test data?
+2.D​escribe what types of images your models classifies well and which they classify badly.
+3.Explain why you think it performed well or badly on the images you described in the last part.
+4.Were there problems with the classifier that you were able to solve? Describe your strategy for solving the problem
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My_Answers:
+
+1. The Work is Mostly Depends on Machine Learning. It Actually Works And I Am Very Happy With My Results And Work Accuracy Of 
+Data Is More Than 80 Percent.
+
+2. Types Of Images:
+
+	1. The Biodegradable And Non-biodegradable Waste.
+
+	2. Old Men And Women Garbage Collector
+
+	3. Places Where They Actually Do this Work
+
+	1 And 3 Image Models Are Well Performed And 2 Image Model Badly Performed.
+
+3. In Case 1 And 3 Image Models Performed Well Because They Don't Have Any Emotions And They Are Actually Just Things. 
+In Case 2 The Image Models Have Emotions And Expressions.
+
+4. This Problem Is Solved Based On The Biodegradable And Non-biodegradable Waste Separator Machine.
+
+THE STRATEGY IS MACHINE LEARNING.
+
+											---Lino Xavier Ignatius

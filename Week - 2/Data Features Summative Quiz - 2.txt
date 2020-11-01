@@ -1,0 +1,19 @@
+Question 1
+Modern deep neural networks work well because:
+They can scale up to very large amounts of data
+
+Question 2
+What is the output of a regression?
+One or more numbers
+
+Question 3
+The feature representation you use has no effect in k-nearest neighbour because it is based on similarity?
+False
+
+Question 4
+Which of these is true?
+If you are using low level features you will need more training data than if you are using high level features
+
+Question 5
+Which do you typically think need more disc space?
+Low Level Features

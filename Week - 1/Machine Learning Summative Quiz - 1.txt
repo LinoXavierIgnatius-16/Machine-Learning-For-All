@@ -1,0 +1,19 @@
+Question 1
+M​achine Learning means...
+Training a statistical model based on example data
+
+Question 2
+What is the input to a classifier?
+Anything that can be represented on a computer
+
+Question 3
+Which of these is the hardest challenge for AI?
+Recognising road signs
+
+Question 4
+T​he big improvement in machine learning in recent years has been due to:
+Massive increases in the amount of data available
+
+Question 5
+T​o train a machine learning model to recognise words from audio recordings of speech your data would be:
+B​oth audio of speech and the corresponding written words
